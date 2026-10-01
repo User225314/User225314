@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/User225314/door-is-open/main/assets/avatar.png" width="180" alt="Illustration of an empty hallway and an open door">
+<img src="https://avatars.githubusercontent.com/u/336100563?v=4" width="150" alt="Anonymous profile silhouette">
 
-# USER 225314
+# LIFE IS PRECIOUS
 
-**The camera recorded an empty hallway. Git recorded something else.**
+`USER 225314` · `IDENTITY UNKNOWN` · `FRAME 0000`
 
-`FRAME 0000` · `OPERATOR UNKNOWN` · `DOOR OPEN`
+The camera recorded an empty hallway. The account has no face.
 
-[Open the archive](https://github.com/User225314/door-is-open) · [View the last frame](https://user225314.github.io/door-is-open/)
+[Open the archive](https://github.com/User225314/door-is-open) · [Check the last frame](https://user225314.github.io/door-is-open/)
 
 </div>
 
 ---
 
-> The hallway has seven doors. The archive has eight.
+> There are seven doors in the hallway. The archive contains eight.
 
-Start at [`evidence/0000.md`](https://github.com/User225314/door-is-open/blob/main/evidence/0000.md). Read the commits in order.
+Start with [evidence/0000.md](https://github.com/User225314/door-is-open/blob/main/evidence/0000.md). Follow the files and commits. If you find the eighth door, please leave it closed.
 
 <sub>A fictional GitHub mystery. No real person, place, or emergency is depicted.</sub>
