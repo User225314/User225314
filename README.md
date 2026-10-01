@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/336100563?v=4" width="150" alt="Anonymous profile silhouette">
 
-# LIFE IS PRECIOUS
+# User225314
 
 `USER 225314` · `IDENTITY UNKNOWN` · `FRAME 0000`
 
