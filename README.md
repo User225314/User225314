@@ -23,5 +23,6 @@ Start with [evidence/0000.md](https://github.com/User225314/door-is-open/blob/ma
 1. [door-is-open](https://github.com/User225314/door-is-open) — the first hallway frame.
 2. [the-eighth-door](https://github.com/User225314/the-eighth-door) — missing frames and two paths through the corridor.
 3. [operator-unknown](https://github.com/User225314/operator-unknown) — a recorded signal and a decoder.
+4. [signal-terminal](https://github.com/User225314/signal-terminal) — [play the receiver](https://user225314.github.io/signal-terminal/) and recover the final frame.
 
 <sub>A fictional GitHub mystery. No real person, place, or emergency is depicted.</sub>
